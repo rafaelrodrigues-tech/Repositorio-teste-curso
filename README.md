@@ -1,2 +1,4 @@
 # Repositorio teste curso
-criando repositorio teste - curso em video
+Criando repositório teste - Curso em Video
+
+Com o Professor Gustavo Guanabara
